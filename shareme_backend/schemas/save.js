@@ -11,7 +11,7 @@ export default {
         {
             name: 'userId',
             title: 'UserId',
-            type: 'string'
+            type: 'string',
         },
-    ]
-}
+    ],
+};
